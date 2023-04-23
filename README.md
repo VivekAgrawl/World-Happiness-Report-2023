@@ -1,2 +1,6 @@
-# World-Happiness-Report-2023
-This is a private project in which I conducted exploratory data analysis using Python. Specifically, I analyzed the World Happiness Report 2023 to gain insights into global happiness levels. 
+# World Happiness Report 2023
+The World Happiness Report is an annual publication that ranks countries based on their happiness levels, as measured by a range of economic, social, and political indicators. The report is produced by the United Nations Sustainable Development Solutions Network. It is designed to provide policymakers, academics, and the general public with insights into the factors that contribute to happiness and well-being around the world.
+
+In this project, an analysis of the World Happiness Report 2023 dataset was conducted, exploring the relationships between happiness scores, regional trends, and key indicators such as GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and perceptions of corruption.
+
+The dataset was downloaded from the World Happiness Report website, which provides open access to the data and tools for analysis. By examining these relationships, insights were gained into the complex and multifaceted nature of happiness and well-being, and potential strategies for promoting happiness and improving quality of life around the world were identified. Finally, the happiness scores of all the countries around the world were presented on a map with a timeline from 2005 to 2022.
